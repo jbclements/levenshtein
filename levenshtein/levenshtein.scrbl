@@ -1,14 +1,13 @@
 #lang scribble/doc
-@; THIS FILE IS GENERATED
 @(require scribble/manual)
-@(require (for-label (planet neil/levenshtein:1:3)))
+@;@(require (for-label (planet neil/levenshtein:1:3)))
 @title[#:version "0.6"]{@bold{levenshtein}: Levenshtein Distance Metric in Scheme}
 @author{Neil Van Dyke}
 
 
 License: @seclink["Legal" #:underline? #f]{LGPL 3} @(hspace 1) Web: @link["http://www.neilvandyke.org/levenshtein-scheme/" #:underline? #f]{http://www.neilvandyke.org/levenshtein-scheme/}
 
-@defmodule[(planet neil/levenshtein:1:3)]
+@defmodule[levenshtein]
 
       
 

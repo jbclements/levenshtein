@@ -6,4 +6,4 @@
                    "rackunit-lib"
                    "scheme-lib"))
 
-(define build-deps (list "scribble-lib"))
+(define build-deps (list "scribble-lib" "racket-doc"))
